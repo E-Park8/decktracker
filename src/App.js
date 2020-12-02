@@ -6,6 +6,7 @@ import DSOD from './pages/DSOD'
 import GX from './pages/GX'
 import DS from './pages/5DS'
 import ZEXAL from './pages/ZEXAL'
+import Card from './components/Card'
 import {
   Collapse,
   Navbar,
